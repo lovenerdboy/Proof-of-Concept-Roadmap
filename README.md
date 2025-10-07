@@ -35,7 +35,7 @@ You can find inspiration by exploring:
 
 ---
 
-## 🧩 Step 3: Generate a PoC Trap
+##  Step 3: Generate a PoC Trap
 
 Once you’ve gathered your research and ideas, instruct your LLM to generate a **simple, unique, and useful PoC** Trap.  
 It should be designed to interact with **an Ethereum DApp or any EVM-compatible DeFi protocol**.
@@ -51,3 +51,9 @@ It should be designed to interact with **an Ethereum DApp or any EVM-compatible 
 pragma solidity ^0.8.20;
 
 import {ITrap} from "drosera-contracts/interfaces/ITrap.sol";
+
+⚙️ Step 4: Generate a Response Contract
+
+After creating your Trap contract, ask your LLM to generate a Response Contract.
+This contract defines the action to be taken when the Trap triggers a response.
+
