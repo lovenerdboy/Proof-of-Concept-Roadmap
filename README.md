@@ -160,6 +160,6 @@ Once your dry run works, you’re almost done!
 6. Create a support ticket and submit
 
 > - 🧡 Job’s done, thanks for playing, kek!
-> - For a visual reference, check out @Reiji4kt’s [video tutorial](https://x.com/Reiji4kt/status/1973679261547413736).
+> - For a visual reference, check out [@Reiji4kt’s video tutorial](https://x.com/Reiji4kt/status/1973679261547413736).
 
 
